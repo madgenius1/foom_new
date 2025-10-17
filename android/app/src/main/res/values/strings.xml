@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">foom</string>
+    <string name="app_name">FOOM</string>
+    <string name="accessibility_service_description">FOOM needs this permission to block distracting apps and help you stay focused. Your privacy is protected - we only track which apps are launched.</string>
 </resources>
