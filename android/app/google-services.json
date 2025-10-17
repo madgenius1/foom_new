@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890687165161",
+    "project_id": "foomapp-a2cb5",
+    "storage_bucket": "foomapp-a2cb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890687165161:android:6199fe6ee34d5c6db1d678",
+        "android_client_info": {
+          "package_name": "com.foom.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890687165161-nfsg19f4gnh22uugfbgk6vasb5c05o5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foom.app",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "890687165161-chqn4nmvrprf5678mnt0ko6ids59c9e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURImXKsUzs6R58dgIPUoUiHWX1A3ZXR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890687165161-chqn4nmvrprf5678mnt0ko6ids59c9e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
