@@ -1,7 +1,3 @@
-/**
- * Application-wide configuration constants
- * Modify these values to adjust app behavior
- */
 
 export const APP_CONFIG = {
   // Token rewards configuration
@@ -26,11 +22,9 @@ export const APP_CONFIG = {
     WITHDRAWAL: 'withdrawal',
   },
   
-  // App metadata
   APP_NAME: 'FOOM',
   APP_PACKAGE: 'com.foom',
   
-  // M-Pesa configuration (mock/placeholder)
   MPESA: {
     CONSUMER_KEY: process.env.MPESA_CONSUMER_KEY || 'placeholder_key',
     CONSUMER_SECRET: process.env.MPESA_CONSUMER_SECRET || 'placeholder_secret',
