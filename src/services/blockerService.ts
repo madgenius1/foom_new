@@ -1,20 +1,3 @@
-/**
- * blockerService.ts
- * Service for app blocking and unlocking functionality
- * 
- * Features:
- * - Update locked apps list in native module
- * - Check if specific apps are blocked
- * - Unlock apps by deducting tokens (Firestore transaction)
- * - Re-lock expired unlock sessions
- * - Manage unlock sessions with expiry timestamps
- * - Request accessibility service permissions
- * 
- * Dependencies:
- * - React Native NativeModules
- * - Firebase Firestore
- * - App configuration constants
- */
 
 import { NativeModules, Platform } from 'react-native';
 import { firestoreInstance, firestoreHelpers } from '../api/firebase';
