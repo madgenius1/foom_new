@@ -1,7 +1,7 @@
 
 import { NativeModules, Platform } from 'react-native';
 import { firestoreInstance, firestoreHelpers } from '../api/firebase';
-import { APP_CONFIG, FIRESTORE_COLLECTIONS } from '../config/constants';
+import { APP_CONFIG, FIRESTORE_COLLECTIONS } from '../config/contsants';
 import type { Transaction, UnlockSession } from '../types';
 
 const { BlockerModule } = NativeModules;
